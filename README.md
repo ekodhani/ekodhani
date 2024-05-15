@@ -1,37 +1,64 @@
-<h1 align="center">Hi 👋🏼, I'am Dhani</h1>
-<h3 align="center">
-	I am a beginner who is very enthusiastic about Programming and UI design 👨🏻‍💻
-</h3>
+<h1 align="center">Hey 👋, My name is Dhani</h1>
 
-<br>
+###
 
-- 👨🏼‍🎓 I graduated from **Universitas Bina Sarana Informatika & Universitas Nusa Mandiri**
-- 📔 I currently have the skill **React JS, CSS, PHP, Codeigniter, My SQL, Laravel**
-- 📧 How to reach me **ekonurramadhani@gmail.com**
+<h4 align="center">A passionate frontend developer from Indonesia</h4>
 
-<h3 align="center">Connect with me:</h3>
+###
+
 <div align="center">
-
-[![image](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhaniflw/)
-[![image](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ekodhani)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekonurramadhani@gmail.com)
- 
+  <a href="https://www.instagram.com/dhaniflw/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
 </div>
 
-<h3 align="center">Languages and Tools</h3>
+###
 
-<p align="center">
-	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-    <img width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-	<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-</p>
+<p align="left">🛠 Languages Tools and Skills:</p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ekodhani&theme=radical&show_icons=true&include_all_commits=true" />
+###
 
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekodhani&theme=radical&layout=compact" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="40" alt="Golang logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353940/jquery.svg" height="40" alt="Jquery logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:766/0*RDbjFZxjwF_JQWz-.jpg" height="40" alt="Express Js logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="40" alt="PHP logo"  />
+  <img width="12" />
+</div>
 
-_____
+###
+
+🌱I’m currently learning: **React.js, Golang**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekodhani&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=6&theme=dark&hide_border=true&order=2" height="250" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ekodhani/ekodhani/output/snake.svg" alt="Snake animation" />
