@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/dhaniflw/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  </a>
-</div>
-
 ###
 
 <p align="left">🛠 Languages Tools and Skills:</p>
